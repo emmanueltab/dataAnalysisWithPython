@@ -1,0 +1,23 @@
+Emmanuel: 
+    in the celtic package there are 2 modules:
+    parser and stats. we have to complete the functions in those modules
+    then in the test.py files, the functions will be called with parser.parser_data as the arguement
+
+    parser.parser_data is a dictonary that is in the parser module. it will already be filled by io_file.py which monroy did for us, otherwise error.
+
+ignore this text
+
+    we will use as the example document to test our functions (it has the same format as parser_data):
+
+    example_list = {
+        'document1': ['that', 'when', 'the', 'powerbook', 'falls', 'asleep', 'he', 'said', 'he', 'was', 'sure', 'that',
+                    'such', 'a', 'thing', 'existed', 'and'],
+        'document2': ['freeware', 'somebody', 'in', 'was', 'also', 'having', 'trouble', 'using', 'a', 'spigot', 'in', 'his',   # this is how corpus_data will look like( this is fake corpus but it follows the same format)
+                    'of', 'screenplay', 'which', 'fixed', 'things'],
+        'document3': ['the', 'monitor', 'is', 'very', 'good', 'however', 'it', 'seems', 'that', 'the', 'does', 'not',
+                    'support', 'vga', 'the', 'why', 'did', 'you', 'buy', 'it']
+    }
+
+
+
+    forpushjmergethiong

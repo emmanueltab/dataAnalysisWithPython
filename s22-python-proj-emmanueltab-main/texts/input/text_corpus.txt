@@ -1,0 +1,26 @@
+corpus document1
+someone asked the me if i there existed an init that removes the dialog
+   "you're gonna disconnect all apletalk users " or something
+like that, when the powerbook falls asleep.
+
+he said he was sure that such a thing existed, and he thought it was
+freeware. can anyone help me out with this ?
+
+corpus document2
+btw : where can i get switch-a-roo, or something of the kind,
+
+but schareware or freeware ?
+
+somebody in comp.multimedia was also having trouble using a spigot in his
+lc iii. it turned out he needed the latest version of screenplay (1.1.1),
+which fixed things.
+
+corpus document3
+i recently made the mistake of purchasing a sony cpd-1320 monitor for my
+mac iici.  the monitor is very good, however it seems that the iici does not
+support vga (then why did you buy it you ask?  i am stupid i reply).  what i
+am looking for is a video card, preferably 8 bit, which supports vga.  i am
+interested in any information i can get.  offers for the sale of applicable
+cards will also be considered.
+get get
+thanks in advance.
