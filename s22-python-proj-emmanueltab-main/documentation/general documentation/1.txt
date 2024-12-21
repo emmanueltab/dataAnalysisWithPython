@@ -5,8 +5,6 @@ Emmanuel:
 
     parser.parser_data is a dictonary that is in the parser module. it will already be filled by io_file.py which monroy did for us, otherwise error.
 
-ignore this text
-
     we will use as the example document to test our functions (it has the same format as parser_data):
 
     example_list = {
@@ -19,5 +17,3 @@ ignore this text
     }
 
 
-
-    forpushjmergethiong
