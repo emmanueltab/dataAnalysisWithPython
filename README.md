@@ -11,7 +11,7 @@ We wrote the functions within those modules. Then in main.py, the functions are 
 # io_file.py
 A script that reads from a text file and returns a dictionary where the key is the name of a document and the value is a list with all words in that document.
 
-# For tseting: 
+# For testing: 
 To test out each function individually, go to "individual functions". Each function uses this dictionary for testing purposes:
 
 example_list = {
