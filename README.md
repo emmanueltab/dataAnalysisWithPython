@@ -1,4 +1,4 @@
-# dataAnalysisWithPython 
+# Document Corpus Analysis
 Spring 2022 Intro to Programming Term Project
 
 This was the project that Joseph Barrera, and I worked on for "intro to programming" freshmen year at the University of St. Thomas, Houston TX.
